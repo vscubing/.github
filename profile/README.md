@@ -1,6 +1,6 @@
 #  <img src="https://vscubing.com/favicon.svg" width="35px" /> vscubing
 
-[vscubing](https://vscubing.com) is a contest platform to compete in virtual speedcubing: the art of solving twisty puzzles (like the Rubik's Cube) via a computer emulator controlled from the keyboard as fast as possible. For more detailed information refer to the [landing page](https://vscubing.com/landing).
+[vscubing](https://vscubing.com) is a contest platform for competing in virtual speedcubing: the art of solving twisty puzzles (like the Rubik's Cube) via a computer emulator controlled from the keyboard as fast as possible. For more detailed information refer to the [landing page](https://vscubing.com/landing).
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ## Frontend
