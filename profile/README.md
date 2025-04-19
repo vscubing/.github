@@ -3,22 +3,31 @@
 [vscubing.com](https://vscubing.com): The platform for competing in virtual speedcubing: the art of solving twisty puzzles (like the Rubik's Cube) via a computer emulator controlled from the keyboard as fast as possible. For more detailed information refer to the [landing page](https://vscubing.com/landing).
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-## Frontend
+## Repositories
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+- [Next.js fullstack app](https://github.com/vscubing/vscubing-next)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000)](#)
+[![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](#)
 
-- [Frontend repository](https://github.com/vscubing/vscubing-frontend)
-- [CSTimer fork for the cube simulator](https://github.com/vscubing/cstimer)
+- [cron job runner](https://github.com/vscubing/vscubing-cron)
+[![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+
+- [HTTP TNoodle wrapper](https://github.com/vscubing/vscubing-tnoodle)
+[![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+
 - [cubing.js fork for solve reconstructions](https://github.com/vscubing/cubing.js)
- 
-## Backend
+[![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) [![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-a30000?logo=django&logoColor=white&style=ShieldStyle&color=darkgreen)](#)
-
-- [Backend Repository](https://github.com/vscubing/vscubing-backend)
 ## Authors
 
-#### frontend
+#### fullstack
 - [@bohdancho](https://github.com/bohdancho)
 
 #### backend
